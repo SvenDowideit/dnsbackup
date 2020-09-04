@@ -1,0 +1,3 @@
+# backup and restore your DNS entries
+
+I need to migrate one of my DNS nameservers from digital ocean to gandi, so I wrote this...
